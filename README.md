@@ -12,15 +12,6 @@ This repository is designed to help you:
 
 ---
 
-## 🔥 SEO-Optimized Repository Title
-
-### **Python Projects Hub – Beginner to Advanced | Games, Logic & Real-World Applications**
-
----
-
-## 📝 SEO-Optimized Repository Description
-
-> A comprehensive Python projects repository featuring beginner to advanced Python programs including games (Blackjack), logic-based applications, automation scripts, and real-world problem-solving projects. Perfect for Python learners, students, and aspiring software engineers.
 
 ---
 
